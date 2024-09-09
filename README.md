@@ -1,4 +1,4 @@
-### README: Análisis de Sentimientos con LSTM y Características Adicionales
+### Análisis de Sentimientos con LSTM y Características Adicionales
 
 Realizado por: **Javier Alejandro Azurdia Arrecis** y **Angel Sebastían Castellanos Pineda**
 
