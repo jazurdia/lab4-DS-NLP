@@ -1,6 +1,9 @@
 ### Análisis de Sentimientos con LSTM y Características Adicionales
 
-Realizado por: **Javier Alejandro Azurdia Arrecis** y **Angel Sebastían Castellanos Pineda**
+
+#### Autores
+- **Javier Alejandro Azurdia Arrecis** - 21242
+- **Angel Sebastían Castellanos Pineda** - 21700
 
 ---
 
@@ -81,11 +84,3 @@ El modelo mostró una buena precisión en la clasificación de sentimientos, aun
 Este proyecto demostró que el uso de un vocabulario más amplio y la incorporación de características adicionales, como la longitud y las proporciones de palabras positivas/negativas, puede mejorar el rendimiento del análisis de sentimientos. A futuro, se podrían probar arquitecturas más complejas con capas LSTM adicionales y una mejor integración de características.
 
 ---
-
-#### Autores
-- **Javier Alejandro Azurdia Arrecis** - 21242
-- **Angel Sebastían Castellanos Pineda** - 21700
-
---- 
-
-Este documento README fue generado con base en el informe del proyecto【16†source】.
